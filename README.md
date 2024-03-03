@@ -1,2 +1,2 @@
 # online-banking-portal
-A Online Bank Portal-Spring Boot
+A Online Bank Portal-Spring-Boot Web Application.
